@@ -45,6 +45,9 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 <img width="1700" alt="Screen Shot 2021-11-28 at 10 46 16 PM" src="https://user-images.githubusercontent.com/93900628/143810836-82c2f383-0179-44f9-b158-28b2467d9094.png">
 
+2.) 2.)	A line chart was created to see the visual representation of the relationship between percentage of successful, failed, or canceled campaigns and the different ranges in goal amounts.
+
+<img width="976" alt="Screen Shot 2021-11-28 at 10 59 30 PM" src="https://user-images.githubusercontent.com/93900628/143811687-adf66c2f-fba9-45a8-b66c-f6309f423098.png">
 
 ### Challenges and Difficulties Encountered
 
@@ -59,6 +62,7 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 
 - What can you conclude about the Outcomes based on Goals?
+  1.) 
 
 - What are some limitations of this dataset?
 
