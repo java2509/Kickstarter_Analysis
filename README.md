@@ -73,12 +73,15 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 - What are some limitations of this dataset?
 
-More parameters could be analyzed to determine what makes a successful campaign:
-  - The genre's of plays that have had the most successful outcomes could be analyzed by subcateogory.
-  - The average donation and amount of backers supporting successful outcomes.
+1.) More parameters could be analyzed to determine what makes a successful campaign:
+   - The genre's of plays that have had the most successful outcomes could be analyzed by subcategory.
+   - The average donation and amount of backers supporting successful outcomes.
+   - Using statisical measures to get rid of outliers that do not make sense to create a more realistic representation of outcomes.
  
 - What are some other possible tables and/or graphs that we could create?
-- Successful campaigns based on Geograhic regions.
+
+ 1.) Successful campaigns based on Geograhic regions.
+
 
 
 
