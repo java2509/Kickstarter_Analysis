@@ -45,9 +45,11 @@ The following steps were used to analyze different outcomes based on Launch Date
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
- 1.) The two most successful champaigns were launched in in May and June.
+
+  1.) The two most successful champaigns were launched in in May and June.
  
- 2.) The least successful time to launch a champaign would be in December where the number of failed champaigns is almost equal to the number of successful champaigns. 
+  2.) The least successful time to launch a champaign would be in December where the number of failed champaigns is almost 
+      equal to the number of successful champaigns. 
 
 
 - What can you conclude about the Outcomes based on Goals?
