@@ -9,14 +9,15 @@ An Analysis on Kickstarter Campaigns
 
 ### Purpose
  
-An up-and-coming playwright Louise started a crowd funding campaign to fund her play *Fever*, she managed to meet 86% of her goal of $2885 with an average donation of $248.5 backed by 10 donors in 28 days. Louise wants to know what the outcomes of other campaigns in relation to the launch dates and funding goals are. The purpose of our analysis is to use Kickstarter data of different campaigns and provide these insights in Excel with visual representation to Louise. The Kickstarter data we are looking at contains information of 4114 campaigns that launched from 2009-2017.
+An up-and-coming playwright Louise started a crowd funding campaign to fund her play *Fever*, she managed to meet 86% of her goal of $2885 with an average donation of $248.5 backed by 10 donors in 28 days. Louise wants to know what the outcomes of other campaigns in relation to the launch dates and funding goals are. The purpose of our analysis is to use Kickstarter data of different campaigns and provide these insights in Excel with visual representation to Louise. The Kickstarter data we are looking at contains information of 4114 campaigns that launched from 2009-2017. The link below connects to the excel file with all the data,pivot tables and charts.
 
+[Kickstarter_Challenge.xlsx.zip](https://github.com/java2509/kickstarter_analysis/files/7615386/Kickstarter_Challenge.xlsx.zip)
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-The following steps were used to analyze the outcomes based on Launch Date:
+The following steps were used to analyze different outcomes based on Launch Dates:
 
 1.)	A year column was created in the Kickstarter Worksheet to extract the year from the “Date Created Conversion” column using the YEAR() formula.
 
@@ -34,7 +35,7 @@ The following steps were used to analyze the outcomes based on Launch Date:
 
 4.)	A line chart was then created from the pivot table to visualize the relationship between theater outcomes and launch months. Below is the image of the line chart:
 
-
+<img width="650" alt="Screen Shot 2021-11-28 at 9 34 20 PM" src="https://user-images.githubusercontent.com/93900628/143804805-dcc39fcf-1513-4bca-a6d9-33089c686484.png">
 
 
 ### Analysis of Outcomes Based on Goals
@@ -45,11 +46,13 @@ The following steps were used to analyze the outcomes based on Launch Date:
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
 
 
 
