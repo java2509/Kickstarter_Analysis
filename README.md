@@ -30,6 +30,12 @@ The following steps were used to analyze the outcomes based on Launch Date:
 
 <img width="450" alt="Screen Shot 2021-11-28 at 9 10 36 PM" src="https://user-images.githubusercontent.com/93900628/143803076-e4b7cde8-e2c7-4285-bfb6-a0bec34325d8.png">
 
+<img width="330" alt="Screen Shot 2021-11-28 at 9 28 24 PM" src="https://user-images.githubusercontent.com/93900628/143804362-21e6cb5e-367a-4b11-b733-b8793d933e6e.png">
+
+4.)	A line chart was then created from the pivot table to visualize the relationship between theater outcomes and launch months. Below is the image of the line chart:
+
+
+
 
 ### Analysis of Outcomes Based on Goals
 
@@ -44,6 +50,7 @@ The following steps were used to analyze the outcomes based on Launch Date:
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
 
 
 
