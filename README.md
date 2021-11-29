@@ -37,8 +37,12 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 <img width="650" alt="Screen Shot 2021-11-28 at 9 34 20 PM" src="https://user-images.githubusercontent.com/93900628/143804805-dcc39fcf-1513-4bca-a6d9-33089c686484.png">
 
-
 ### Analysis of Outcomes Based on Goals
+
+1.)	A new worksheet was created analyze the percentage of successful,failed and canceled based on different goal dollar ranges for the subcategory “play” the same subcategory as *Fever*. 
+
+<img width="749" alt="Screen Shot 2021-11-28 at 10 28 59 PM" src="https://user-images.githubusercontent.com/93900628/143809137-df9d53ea-4303-4533-945e-e38b1b5dbbdb.png">
+
 
 ### Challenges and Difficulties Encountered
 
@@ -57,6 +61,7 @@ The following steps were used to analyze different outcomes based on Launch Date
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
 
 
 
