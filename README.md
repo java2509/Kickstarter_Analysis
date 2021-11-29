@@ -26,8 +26,9 @@ The following steps were used to analyze the outcomes based on Launch Date:
 
 <img width="298" alt="Screen Shot 2021-11-28 at 8 51 52 PM" src="https://user-images.githubusercontent.com/93900628/143801289-b7b26e77-d3be-4fc2-9d6c-b92788d2052a.png">
 
-3.)	The Parent Category was filtered to show only data for the “theater”, column labels were filtered to show data for “successful”, “failed” and “canceled” campaigns. The campaign outcomes were sorted in descending order.
+3.)	The Parent Category was filtered to show only data for the “theater” since Louise's play *Fever* is in the same Parent Category , column labels were filtered to show data for “successful”, “failed” and “canceled” campaigns. The campaign outcomes were sorted in descending order.
 
+<img width="450" alt="Screen Shot 2021-11-28 at 9 10 36 PM" src="https://user-images.githubusercontent.com/93900628/143803076-e4b7cde8-e2c7-4285-bfb6-a0bec34325d8.png">
 
 
 ### Analysis of Outcomes Based on Goals
@@ -43,5 +44,6 @@ The following steps were used to analyze the outcomes based on Launch Date:
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
 
 
