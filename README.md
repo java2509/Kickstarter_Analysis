@@ -1,5 +1,5 @@
 ###### kickstarter_analysis
-An Analysis on of Kickstarter Campaigns
+An Analysis on Kickstarter Campaigns
 
 # Kickstarter Analysis
 
