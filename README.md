@@ -39,9 +39,11 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
 
-1.)	A new worksheet was created analyze the percentage of successful,failed and canceled based on different goal dollar ranges for the subcategory “play” the same subcategory as *Fever*. 
+1.)	A new worksheet was created to analyze the percentage of successful, failed and canceled campaigns based on different goal dollar ranges. The COUNTIF () function was used to populate data in column’s B,C and D, based on the following columns in the Kickstarter Workbook, the “goal” amount column, the outcome column and the subcategory column using “plays” as a criteria since *Fever* falls in this subcategory.
 
-<img width="749" alt="Screen Shot 2021-11-28 at 10 28 59 PM" src="https://user-images.githubusercontent.com/93900628/143809137-df9d53ea-4303-4533-945e-e38b1b5dbbdb.png">
+<img width="1700" alt="Screen Shot 2021-11-28 at 10 45 55 PM" src="https://user-images.githubusercontent.com/93900628/143810466-818184a2-3c64-4966-ae33-f3d576cd99e8.png">
+
+<img width="1700" alt="Screen Shot 2021-11-28 at 10 46 16 PM" src="https://user-images.githubusercontent.com/93900628/143810836-82c2f383-0179-44f9-b158-28b2467d9094.png">
 
 
 ### Challenges and Difficulties Encountered
@@ -61,7 +63,6 @@ The following steps were used to analyze different outcomes based on Launch Date
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-
 
 
 
