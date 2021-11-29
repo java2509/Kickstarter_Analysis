@@ -45,11 +45,17 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 <img width="1700" alt="Screen Shot 2021-11-28 at 10 46 16 PM" src="https://user-images.githubusercontent.com/93900628/143810836-82c2f383-0179-44f9-b158-28b2467d9094.png">
 
-2.) 2.)	A line chart was created to see the visual representation of the relationship between percentage of successful, failed, or canceled campaigns and the different ranges in goal amounts.
+2.) These were the results by each dollar amount range.
+
+<img width="947" alt="Screen Shot 2021-11-28 at 11 12 43 PM" src="https://user-images.githubusercontent.com/93900628/143812596-2d2efa75-9136-46f6-af0f-25183373df8f.png">
+
+3.)	A line chart was created to see the visual representation of the relationship between percentage of successful, failed, or canceled campaigns and the different ranges in goal amounts.See image below.
 
 <img width="976" alt="Screen Shot 2021-11-28 at 10 59 30 PM" src="https://user-images.githubusercontent.com/93900628/143811687-adf66c2f-fba9-45a8-b66c-f6309f423098.png">
 
 ### Challenges and Difficulties Encountered
+
+
 
 ## Results
 
@@ -62,12 +68,17 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 
 - What can you conclude about the Outcomes based on Goals?
-  1.) 
+
+  1.) The goal ranges with highest success is less than $1000 and $1000 to $4999, there are 529 successful campaigns out of a total of 720 in these ranges. The goal ranges between $30,000- $39,999 shows a 67% successful but the sample size is much lower with 6 out a total of 9.
 
 - What are some limitations of this dataset?
 
+More parameters could be analyzed to determine what makes a successful campaign:
+  - The genre's of plays that have had the most successful outcomes could be analyzed by subcateogory.
+  - The average donation and amount of backers supporting successful outcomes.
+ 
 - What are some other possible tables and/or graphs that we could create?
-
+- Successful campaigns based on Geograhic regions.
 
 
 
