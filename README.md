@@ -59,6 +59,9 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 ### Challenges and Difficulties Encountered
 
+Listed are possible challenges that one could face:
+
+1.) Not anchoring the array for the COUNT-IF formula could result in incorrect outputs
 
 
 ## Results
@@ -85,6 +88,7 @@ The following steps were used to analyze different outcomes based on Launch Date
 - What are some other possible tables and/or graphs that we could create?
 
    1.) Successful campaigns based on Geograhic regions.
+   2.) Graphs of how other parent categories fared.
 
 
 
