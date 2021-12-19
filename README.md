@@ -88,6 +88,7 @@ Listed are possible challenges that one could face:
 - What are some other possible tables and/or graphs that we could create?
 
    1.) Successful campaigns based on Geograhic regions.
+
    2.) Graphs of how other parent categories fared.
 
 
