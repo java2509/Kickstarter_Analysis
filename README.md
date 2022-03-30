@@ -9,7 +9,7 @@ An Analysis on Kickstarter Campaigns
 
 ### Purpose
  
-An up-and-coming playwright Louise started a crowd funding campaign to fund her play *Fever*, she managed to meet 86% of her goal of $2885 with an average donation of $248.5 backed by 10 donors in 28 days. Louise wants to know what the outcomes of other campaigns in relation to the launch dates and funding goals are. The purpose of our analysis is to use Kickstarter data of different campaigns and provide these insights in Excel with visual representation to Louise. The Kickstarter data we are looking at contains information of 4114 campaigns that launched from 2009-2017.
+An up-and-coming playwright Louise started a crowd funding campaign to fund her play *Fever*, she meet 86% of her goal of $2885 in 28 days with an average donation of $248.5 backed by 10 donors. Louise wants to know what the outcomes of other campaigns are in relation to the launch dates and funding goals. The purpose of our analysis is to use the Kickstarter data of different campaigns and provide insights with visual representation in Excel to Louise. The Kickstarter data we are looking at contains information of 4,114 campaigns that launched from 2009-2017.
 
 ### Resources Used
 
