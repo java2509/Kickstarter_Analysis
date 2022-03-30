@@ -7,11 +7,11 @@ An Analysis on Kickstarter Campaigns
 
 ## Overview of Project
 
-### Purpose
+### Purpose:
  
 An up-and-coming playwright Louise started a crowd funding campaign to fund her play *Fever*, she meet 86% of her goal of $2885 in 28 days with an average donation of $248.5 backed by 10 donors. Louise wants to know what the outcomes of other campaigns are in relation to the launch dates and funding goals. The purpose of our analysis is to use the Kickstarter data of different campaigns and provide insights with visual representation in Excel to Louise. The Kickstarter data we are looking at contains information of 4,114 campaigns that launched from 2009-2017.
 
-### Resources Used
+### Resources Used:
 
 [Kickstarter_Challenge _Data](https://github.com/java2509/kickstarter_analysis/files/7615386/Kickstarter_Challenge.xlsx.zip)
 
@@ -19,7 +19,7 @@ Microsoft Excel for Mac Version 16.55
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date:
 
 The following steps were used to analyze different outcomes based on Launch Dates:
 
@@ -41,7 +41,7 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 <img width="650" alt="Screen Shot 2021-11-28 at 9 34 20 PM" src="https://user-images.githubusercontent.com/93900628/143804805-dcc39fcf-1513-4bca-a6d9-33089c686484.png">
 
-### Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals:
 
 1.)	A new worksheet was created to analyze the percentage of successful, failed and canceled campaigns based on different goal dollar ranges. The COUNTIF () function was used to populate data in column’s B,C and D, based on the following columns in the Kickstarter Workbook, the “goal” amount column, the outcome column and the subcategory column using “plays” as a criteria since *Fever* falls in this subcategory.
 
@@ -57,14 +57,14 @@ The following steps were used to analyze different outcomes based on Launch Date
 
 <img width="976" alt="Screen Shot 2021-11-28 at 10 59 30 PM" src="https://user-images.githubusercontent.com/93900628/143811687-adf66c2f-fba9-45a8-b66c-f6309f423098.png">
 
-### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered:
 
 Listed are possible challenges that one could face:
 
 1.) Not anchoring the array for the COUNT-IF formula could result in incorrect outputs
 
 
-## Results
+### Results:
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
